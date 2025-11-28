@@ -1,0 +1,167 @@
+[2025-06-24T03:24:33.035Z] 🚀 Server berjalan di http://localhost:3000
+[2025-06-24T03:25:36.543Z] 🚀 Server berjalan di http://localhost:3000
+[2025-06-24T03:27:45.646Z] 💬 Komentar: ada ventela ga kak?
+[2025-06-24T03:28:14.693Z] 🚀 Server berjalan di http://localhost:3000
+[2025-06-24T03:28:18.113Z] 💬 Komentar: ada ventela ga kak?
+[2025-06-24T03:30:21.417Z] 🚀 Server berjalan di http://localhost:3000
+[2025-06-24T03:30:23.776Z] 💬 Komentar: ada ventela ga kak?
+[2025-06-24T03:32:35.133Z] 🚀 Server berjalan di http://localhost:3000
+[2025-06-24T03:32:37.891Z] 💬 Komentar: ada ventela ga kak?
+[2025-06-24T03:32:37.901Z] ▶️ Menjalankan scene: VentelaReady
+[2025-06-24T03:32:57.913Z] 💬 Komentar: yg ventella kk
+[2025-06-24T03:32:57.915Z] ▶️ Menjalankan scene: VentelaReady
+[2025-06-24T03:33:17.930Z] 💬 Komentar: ada ventela ga kak?
+[2025-06-24T03:33:17.934Z] ▶️ Menjalankan scene: VentelaReady
+[2025-06-24T03:33:37.941Z] 💬 Komentar: yg ventella kk
+[2025-06-24T03:33:37.945Z] ▶️ Menjalankan scene: VentelaReady
+[2025-06-24T03:33:57.950Z] 💤 Tidak ada komentar, kembali ke IDLE.
+[2025-06-24T03:34:42.551Z] 💬 Komentar: spill etalase 6 kak
+[2025-06-24T03:34:42.553Z] ▶️ Menjalankan scene: 6
+[2025-06-24T03:35:42.568Z] 💤 Tidak ada komentar, kembali ke IDLE.
+// Perbaikan Websocket OBS
+[2025-06-24T05:20:01.221Z] 🚀 Server berjalan di http://localhost:3000
+[2025-06-24T05:20:44.714Z] 💬 Komentar: ada adidas ga kak?
+[2025-06-24T05:20:44.721Z] 💤 Tidak ada komentar, kembali ke IDLE.
+[2025-06-24T05:21:16.284Z] 💬 Komentar: spill compass kak
+[2025-06-24T05:21:16.289Z] ▶️ Menjalankan scene: CompassReady
+[2025-06-24T05:21:16.290Z] 🕒 Durasi scene "CompassReady": 6549ms
+[2025-06-24T05:21:22.843Z] ➡️ Interaksi selesai, kembali ke IDLE.
+[2025-06-24T05:21:35.675Z] 💬 Komentar: spill etalase 8
+[2025-06-24T05:21:35.676Z] ▶️ Menjalankan scene: 8
+[2025-06-24T05:21:35.678Z] 🕒 Durasi scene "8": 18368ms
+[2025-06-24T05:21:54.054Z] 💤 Tidak ada komentar, kembali ke IDLE.
+[2025-06-24T05:22:46.376Z] 💬 Komentar: yang atas kanan itu etalase mana kak?
+[2025-06-24T05:22:46.380Z] 💤 Tidak ada komentar, kembali ke IDLE.
+[2025-06-24T05:23:08.251Z] 💬 Komentar: yang kanan
+[2025-06-24T05:23:08.255Z] 💤 Tidak ada komentar, kembali ke IDLE.
+[2025-06-24T05:24:04.875Z] 💬 Komentar: ada specs ga kak
+[2025-06-24T05:24:04.876Z] ▶️ Menjalankan scene: SpecsReady
+[2025-06-24T05:24:04.876Z] 🕒 Durasi scene "SpecsReady": 5736ms
+[2025-06-24T05:24:10.622Z] ➡️ Interaksi selesai, kembali ke IDLE.
+[2025-06-24T05:24:30.997Z] 💬 Komentar: spill etalase 28 kak specs nya
+[2025-06-24T05:24:30.998Z] ▶️ Menjalankan scene: 28
+[2025-06-24T05:24:30.998Z] 🕒 Durasi scene "28": 11123ms
+[2025-06-24T05:24:42.129Z] 💤 Tidak ada komentar, kembali ke IDLE.
+[2025-06-24T05:29:42.837Z] 💬 Komentar: kak punya brodo ga
+[2025-06-24T05:29:42.838Z] ▶️ Menjalankan scene: BrodoReady
+[2025-06-24T05:29:42.839Z] 🕒 Durasi scene "BrodoReady": 6641ms
+[2025-06-24T05:29:49.493Z] ➡️ Interaksi selesai, kembali ke IDLE.
+[2025-06-24T05:30:11.963Z] 💬 Komentar: mana etalase 15 nya kak mau liat
+[2025-06-24T05:30:11.966Z] ▶️ Menjalankan scene: 15
+[2025-06-24T05:30:11.968Z] 🕒 Durasi scene "15": 11402ms
+[2025-06-24T05:30:23.386Z] 💤 Tidak ada komentar, kembali ke IDLE.
+[2025-06-24T05:35:56.326Z] 🚀 Server berjalan di http://localhost:3000
+[2025-06-24T05:36:30.699Z] 💬 Komentar: yang atas kanan itu etalase mana kak
+[2025-06-24T05:36:30.704Z] 💤 Tidak ada komentar, kembali ke IDLE.
+[2025-06-24T05:37:05.011Z] 💬 Komentar: yang atas
+[2025-06-24T05:37:05.015Z] 💤 Tidak ada komentar, kembali ke IDLE.
+[2025-06-24T05:40:42.932Z] 🚀 Server berjalan di http://localhost:3000
+[2025-06-24T05:41:04.479Z] 💬 Komentar: displaytop
+[2025-06-24T05:41:04.486Z] 💤 Tidak ada komentar, kembali ke IDLE.
+[2025-06-24T05:48:38.643Z] 🚀 Server berjalan di http://localhost:3000
+[2025-06-24T05:49:03.340Z] 💬 Komentar: yang bawah
+[2025-06-24T05:49:03.351Z] ▶️ Menjalankan scene: displayBottom
+[2025-06-24T05:49:03.353Z] 🕒 Durasi scene "displayBottom": 17973ms
+[2025-06-24T05:49:21.338Z] ➡️ Interaksi selesai, kembali ke IDLE.
+[2025-06-24T05:50:09.976Z] 💬 Komentar: ada nike ga kak
+[2025-06-24T05:50:09.981Z] 💤 Tidak ada komentar, kembali ke IDLE.
+[2025-06-24T05:51:30.270Z] 💬 Komentar: kalo eiger ada ga kak
+[2025-06-24T05:51:30.276Z] ▶️ Menjalankan scene: brandLainnya
+[2025-06-24T05:51:30.278Z] 🕒 Durasi scene "brandLainnya": 5000ms
+[2025-06-24T05:51:35.292Z] ➡️ Interaksi selesai, kembali ke IDLE.
+[2025-06-24T05:55:52.728Z] 💬 Komentar: spill sepatu panarbody bang
+[2025-06-24T05:55:52.736Z] ▶️ Menjalankan scene: panarbody
+[2025-06-24T05:55:52.738Z] 🕒 Durasi scene "panarbody": 6641ms
+[2025-06-24T05:55:59.395Z] ➡️ Interaksi selesai, kembali ke IDLE.
+[2025-06-24T05:56:20.860Z] 💬 Komentar: etalase 48 bang
+[2025-06-24T05:56:20.862Z] ▶️ Menjalankan scene: 48
+[2025-06-24T05:56:20.863Z] 🕒 Durasi scene "48": 8847ms
+[2025-06-24T05:56:29.722Z] 💤 Tidak ada komentar, kembali ke IDLE.
+[2025-06-24T05:57:40.673Z] 💬 Komentar: yang pojok kiri itu etalase mana
+[2025-06-24T05:57:40.675Z] ▶️ Menjalankan scene: displayLeft
+[2025-06-24T05:57:40.676Z] 🕒 Durasi scene "displayLeft": 16069ms
+[2025-06-24T05:57:56.761Z] ➡️ Interaksi selesai, kembali ke IDLE.
+[2025-06-24T06:23:49.506Z] 🚀 Server berjalan di http://localhost:3000
+[2025-06-24T06:24:07.455Z] 💬 Komentar: mana aerostreetnya kak
+[2025-06-24T06:24:07.470Z] ▶️ Menjalankan scene: aerostreet
+[2025-06-24T06:24:07.472Z] 🕒 Durasi scene "aerostreet": 7338ms
+[2025-06-24T06:24:14.817Z] ➡️ Interaksi selesai, kembali ke IDLE.
+[2025-06-24T06:24:34.843Z] 💬 Komentar: etalse 18 ready?
+[2025-06-24T06:24:34.845Z] ▶️ Menjalankan scene: 18
+[2025-06-24T06:24:34.847Z] 🕒 Durasi scene "18": 9823ms
+[2025-06-24T06:24:44.681Z] 💤 Tidak ada komentar, kembali ke IDLE.
+[2025-06-24T06:24:47.070Z] 💬 Komentar: kalo et 19?
+[2025-06-24T06:24:47.072Z] ▶️ Menjalankan scene: 19
+[2025-06-24T06:24:47.073Z] 🕒 Durasi scene "19": 11680ms
+[2025-06-24T06:24:58.758Z] 💤 Tidak ada komentar, kembali ke IDLE.
+[2025-06-24T06:31:19.422Z] 💬 Komentar: pojok bawah mana kak
+[2025-06-24T06:31:19.429Z] ▶️ Menjalankan scene: displayBottom
+[2025-06-24T06:31:19.434Z] 🕒 Durasi scene "displayBottom": 17973ms
+[2025-06-24T06:31:37.418Z] ➡️ Interaksi selesai, kembali ke IDLE.
+[2025-06-24T11:07:15.991Z] 🚀 Server berjalan di http://localhost:3000
+[2025-06-24T11:09:16.779Z] 🚀 Server berjalan di http://localhost:3000
+[2025-06-24T11:09:57.247Z] 💬 Komentar: spill etalase 46
+[2025-06-24T11:09:57.249Z] ▶️ Menjalankan scene: 46
+[2025-06-24T11:09:57.251Z] 🕒 Durasi scene "46": 10542ms
+[2025-06-24T11:10:07.808Z] 💤 Tidak ada komentar, kembali ke IDLE.
+[2025-06-24T11:13:30.183Z] 💬 Komentar: ardiles
+[2025-06-24T11:13:30.188Z] ▶️ Menjalankan scene: ardiles
+[2025-06-24T11:13:30.191Z] 🕒 Durasi scene "ardiles": 5179ms
+[2025-06-24T11:13:35.373Z] ➡️ Interaksi selesai, kembali ke IDLE.
+[2025-06-25T04:17:39.141Z] 🚀 Server berjalan di http://localhost:3000
+[2025-06-25T04:18:04.375Z] 💬 Komentar: ventela
+[2025-06-25T04:18:04.385Z] ▶️ Menjalankan scene: ventela
+[2025-06-25T04:18:04.387Z] 🕒 Durasi scene "ventela": 5968ms
+[2025-06-25T04:18:10.381Z] ➡️ Interaksi selesai, kembali ke IDLE.
+[2025-06-25T04:35:57.940Z] 💬 Komentar: spill etalase 50
+[2025-06-25T04:35:57.952Z] ▶️ Menjalankan scene: 50
+[2025-06-25T04:35:57.954Z] 🕒 Durasi scene "50": 7919ms
+[2025-06-25T04:36:05.877Z] 💤 Tidak ada komentar, kembali ke IDLE.
+[2025-06-25T04:49:01.764Z] 💬 Komentar: spill aerostreet kak
+[2025-06-25T04:49:01.795Z] ▶️ Menjalankan scene: aerostreet
+[2025-06-25T04:49:01.797Z] 🕒 Durasi scene "aerostreet": 7338ms
+[2025-06-25T04:49:09.156Z] ➡️ Interaksi selesai, kembali ke IDLE.
+[2025-06-28T11:01:00.642Z] 🚀 Server berjalan di http://localhost:3000
+[2025-06-28T11:04:57.643Z] 💬 Komentar: liat yang pojok kanan kak yang warna hitam itu
+[2025-06-28T11:04:57.647Z] ▶️ Menjalankan scene: displayRight
+[2025-06-28T11:04:57.650Z] 🕒 Durasi scene "displayRight": 17903ms
+[2025-06-28T11:05:15.568Z] ➡️ Interaksi selesai, kembali ke IDLE.
+[2025-06-28T11:05:46.861Z] 💬 Komentar: oh, ada adidas ga kak
+[2025-06-28T11:05:46.868Z] 💤 Tidak ada komentar, kembali ke IDLE.
+[2025-06-28T11:30:26.371Z] 💬 Komentar: coba spill etalase 17
+[2025-06-28T11:30:26.378Z] ▶️ Menjalankan scene: 17
+[2025-06-28T11:30:26.379Z] 🕒 Durasi scene "17": 12075ms
+[2025-06-28T11:30:38.472Z] 💤 Tidak ada komentar, kembali ke IDLE.
+[2025-06-28T11:31:23.031Z] 💬 Komentar: kalo yang brodo et 16 kak kayak gimana
+[2025-06-28T11:31:23.034Z] ▶️ Menjalankan scene: 16
+[2025-06-28T11:31:23.036Z] 🕒 Durasi scene "16": 13747ms
+[2025-06-28T11:31:36.816Z] 💤 Tidak ada komentar, kembali ke IDLE.
+[2025-06-28T11:32:27.876Z] 💬 Komentar: bagusan mana sama aerostreet kak
+[2025-06-28T11:32:27.883Z] ▶️ Menjalankan scene: aerostreet
+[2025-06-28T11:32:27.884Z] 🕒 Durasi scene "aerostreet": 7338ms
+[2025-06-28T11:32:35.232Z] ➡️ Interaksi selesai, kembali ke IDLE.
+[2025-06-28T11:36:55.037Z] 💬 Komentar: spill etalase 3
+[2025-06-28T11:36:55.039Z] ▶️ Menjalankan scene: 3
+[2025-06-28T11:36:55.040Z] 🕒 Durasi scene "3": 11355ms
+[2025-06-28T11:37:06.397Z] 💤 Tidak ada komentar, kembali ke IDLE.
+[2025-06-28T11:37:49.322Z] 💬 Komentar: punya eiger ga kak?
+[2025-06-28T11:37:49.323Z] ▶️ Menjalankan scene: brandLainnya
+[2025-06-28T11:37:49.324Z] 🕒 Durasi scene "brandLainnya": 5000ms
+[2025-06-28T11:37:54.337Z] ➡️ Interaksi selesai, kembali ke IDLE.
+[2025-06-28T11:38:04.779Z] 💬 Komentar: oh, kalo gitu ada mills ga?
+[2025-06-28T11:38:04.781Z] ▶️ Menjalankan scene: mills
+[2025-06-28T11:38:04.782Z] 🕒 Durasi scene "mills": 5179ms
+[2025-06-28T11:38:09.966Z] ➡️ Interaksi selesai, kembali ke IDLE.
+[2025-06-28T11:38:41.091Z] 💬 Komentar: spill yang et 37
+[2025-06-28T11:38:41.094Z] ▶️ Menjalankan scene: 37
+[2025-06-28T11:38:41.095Z] 🕒 Durasi scene "37": 8778ms
+[2025-06-28T11:38:49.886Z] 💤 Tidak ada komentar, kembali ke IDLE.
+[2025-07-03T00:26:09.907Z] 🚀 Server berjalan di http://localhost:3000
+[2025-07-03T00:32:38.342Z] 💬 Komentar: spill etalase 2
+[2025-07-03T00:32:38.353Z] ▶️ Menjalankan scene: 2
+[2025-07-03T00:32:38.357Z] 🕒 Durasi scene "2": 15117ms
+[2025-07-03T00:32:53.492Z] 💤 Tidak ada komentar, kembali ke IDLE.
+[2025-07-03T01:08:40.482Z] 💬 Komentar: spill aerostreet kak
+[2025-07-03T01:08:40.498Z] ▶️ Menjalankan scene: aerostreet
+[2025-07-03T01:08:40.499Z] 🕒 Durasi scene "aerostreet": 7338ms
+[2025-07-03T01:08:47.842Z] ➡️ Interaksi selesai, kembali ke IDLE.
